@@ -1,6 +1,4 @@
-# Crypto-Toolkit
-
-# Mini Crypto Toolkit
+# Crypto Toolkit
 
 A beginner-friendly Bash script that demonstrates core Linux and Bash concepts
 alongside practical cryptography commands.
