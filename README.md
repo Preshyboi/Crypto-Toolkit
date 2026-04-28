@@ -134,9 +134,9 @@ Output    : d8e8fca2dc0f896fd7cb4cb0031ba249
 Timestamp : 2025-01-01 12:00:00
 ```
 
-## Screenshots
+<!-- ## Screenshots
 
-Screenshots of the toolkit running are located in `assets/screenshots/`.
+Screenshots of the toolkit running are located in `assets/screenshots/`. -->
 
 ## License
 
