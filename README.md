@@ -334,4 +334,10 @@ Entry point. Calls `check_script_permissions` and `check_deps` at startup, then 
 
 ---
 
+<div align="center">
 
+### *fin*
+
+<hr width="80px">
+
+</div>
