@@ -1,8 +1,7 @@
 #!/bin/bash
 # =============================================================================
 # crypto_toolkit.sh — Mini Crypto Toolkit
-# Course  : CYBR 352 — Linux Fundamentals
-# Topic   : Encryption / Encoding / Hashing Toolkit
+# Team: Piseth Dy, Darichhy Lim, Channeath Ros, Bunlong Mey
 # Tools   : openssl, md5sum, sha256sum, base64, awk, cut, grep
 # =============================================================================
 
