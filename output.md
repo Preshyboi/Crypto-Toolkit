@@ -1,12 +1,11 @@
-# Mini Crypto Toolkit — Sample Run Output
+# Mini Crypto Toolkit Sample Run Output
 
-**Course:** CYBR 352 — Linux Fundamentals  
 **Script:** `crypto_toolkit.sh`  
-**Purpose:** Annotated sample output for screenshots
+**Purpose:** Sample output for screenshots
 
 ---
 
-## Startup — Dependency Check
+## Startup Dependency Check
 
 ```
 [*] Checking required tools...
@@ -40,7 +39,7 @@
 
 ---
 
-## Option 1 — Hash Text
+## Option 1: Hash Text
 
 ### Normal run
 
@@ -63,7 +62,7 @@ Save this result to the session log? [y/n]: y
 [*] Result saved to: crypto_session.log
 ```
 
-### Error — empty input, then retry
+### Error: empty input, then retry
 
 ```
   Choose an option [1-7]: 1
@@ -89,7 +88,7 @@ Save this result to the session log? [y/n]: n
 
 ---
 
-## Option 2 — Base64 Encode
+## Option 2: Base64 Encode
 
 ```
   Choose an option [1-7]: 2
@@ -109,7 +108,7 @@ Save this result to the session log? [y/n]: y
 
 ---
 
-## Option 3 — Base64 Decode
+## Option 3: Base64 Decode
 
 ### Normal run
 
@@ -129,7 +128,7 @@ Save this result to the session log? [y/n]: n
 [*] Result not saved.
 ```
 
-### Error — invalid characters, then back to menu
+### Error: invalid characters, then back to menu
 
 ```
   Choose an option [1-7]: 3
@@ -150,7 +149,7 @@ Enter Base64 string to decode: not_valid!!!
 
 ---
 
-## Option 4 — AES-256-CBC Encrypt
+## Option 4: AES-256-CBC Encrypt
 
 ### Normal run
 
@@ -190,7 +189,7 @@ Save this result to the session log? [y/n]: y
 [*] Result saved to: crypto_session.log
 ```
 
-### Error — passphrase mismatch, then retry
+### Error: passphrase mismatch, then retry
 
 ```
   Choose an option [1-7]: 4
@@ -223,7 +222,7 @@ Save this result to the session log? [y/n]: n
 
 ---
 
-## Option 5 — AES-256-CBC Decrypt
+## Option 5: AES-256-CBC Decrypt
 
 ### Normal run
 
@@ -247,7 +246,7 @@ Save this result to the session log? [y/n]: y
 [*] Result saved to: crypto_session.log
 ```
 
-### Error — wrong passphrase, then retry with correct passphrase
+### Error: wrong passphrase, then retry with correct passphrase
 
 ```
   Choose an option [1-7]: 5
@@ -284,7 +283,7 @@ Save this result to the session log? [y/n]: n
 
 ---
 
-## Option 6 — View Session Log
+## Option 6: View Session Log
 
 ### With saved entries
 
@@ -322,7 +321,7 @@ Encrypted : 2pQlhoibxh+pZ9Yv8CrzMg==
 Decrypted : hello CYBR352
 ```
 
-### Empty — nothing saved yet
+### Empty: nothing saved yet
 
 ```
   Choose an option [1-7]: 6
@@ -344,7 +343,7 @@ Decrypted : hello CYBR352
 
 ---
 
-## Option 7 — Exit
+## Option 7: Exit
 
 ```
   Choose an option [1-7]: 7
