@@ -63,10 +63,18 @@
 
 <img width="2400" height="1982" alt="Screenshot 2026-04-29 at 10 14 26 PM" src="https://github.com/user-attachments/assets/370d715b-5252-4efd-9d61-0b748c2683e0" />
 
-
 ### Error: wrong passphrase, then retry with correct passphrase
 
 <img width="2400" height="1982" alt="Screenshot 2026-04-29 at 10 15 20 PM" src="https://github.com/user-attachments/assets/5f4981fb-f996-445f-8057-9b7325205ba8" />
+
+---
+
+## Option 5: AES-256-CBC Decrypt Online
+
+<img width="1512" height="937" alt="Screenshot 2026-04-30 at 1 20 02 in the afternoon" src="https://github.com/user-attachments/assets/9986ba6b-c8bd-4972-aa3e-5cfb8600866a" /> <br>
+
+<img width="1512" height="937" alt="Screenshot 2026-04-30 at 1 20 29 in the afternoon" src="https://github.com/user-attachments/assets/e6e7c0b1-cbf7-4a9a-ab3a-368f7a30b3a6" />
+
 
 ---
 
